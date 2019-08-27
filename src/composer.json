@@ -1,0 +1,15 @@
+{
+    "name": "nojiang/taobaoke",
+    "authors": [
+        {
+            "name": "nojiang",
+            "email": "55644804@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nojiang\\Taobaoke\\": "src/"
+        }
+    }
+}
